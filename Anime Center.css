@@ -19,6 +19,9 @@ td {
 	width: 250px;
 	padding: 10px;
 }
+td:hover {
+	background-color: #65aa87;
+}
 a:link {
 	color: #fffbdc;
 	background-color: transparent;
